@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.10.0",
+    "libraryName": "configurable-image-slider-webpart-main",
+    "libraryId": "fee6b1d2-2503-4915-ba33-20773350f40f",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

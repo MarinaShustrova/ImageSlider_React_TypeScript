@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "configurable-image-slider-webpart-main-client-side-solution",
+    "id": "fee6b1d2-2503-4915-ba33-20773350f40f",
+    "version": "1.0.0.2",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/configurable-image-slider-webpart-main.sppkg"
+  }
+}
